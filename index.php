@@ -11,5 +11,6 @@ function randomCitizenID(){
 	return $firstNumber.$lastNumber;
 }
 
+# แสดงผล
 echo randomCitizenID();
 ?>
